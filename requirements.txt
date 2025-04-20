@@ -6,3 +6,5 @@ scikit_learn==1.2.0
 seaborn==0.12.2
 xgboost==1.7.3
 streamlit
+python_version == 3.9
+
