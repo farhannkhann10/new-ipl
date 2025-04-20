@@ -5,6 +5,5 @@ pandas
 scikit_learn
 seaborn
 xgboost
-streamlit
-python_version 
-pip install --upgrade pip
+
+
