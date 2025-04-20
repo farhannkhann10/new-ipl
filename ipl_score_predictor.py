@@ -8,7 +8,7 @@ import streamlit as st
 st.set_page_config(page_title='IPL Score Predictor 2022', layout="centered")
 
 # Load the ML model
-filename = 'ml_model.pkl'
+filename = 'ml_model.pkl.gz'
 model = pickle.load(open(filename, 'rb'))
 
 # Title of the page with custom CSS
