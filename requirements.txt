@@ -7,4 +7,4 @@ seaborn==0.12.2
 xgboost==1.7.3
 streamlit
 python_version == 3.9
-
+pip install --upgrade pip
